@@ -1,7 +1,5 @@
 # DecayRP
 
-***
-
 ## Bugtracker
 
 Welcome to the DecayRP bugtracker, in order to post a new issue relating to the server or mod pack please click on the ``issues'' tab above:
