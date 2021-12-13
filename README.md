@@ -6,13 +6,13 @@
 
 Welcome to the DecayRP bugtracker, in order to post a new issue relating to the server or mod pack please click on the ``issues'' tab above:
 
-	![Displaying Issues Tab](/Assets/issues.png)
+![Displaying Issues Tab](/Assets/issues.png)
 
 Following this, click on ``New Issue''.
 
 For the title of the issue, please use the following format:
 
-	`[Type of Issue] - Brief Description of Issue`
+`[Type of Issue] - Brief Description of Issue`
 
 For:
 	1. Instead of [Type of Issue], type either:
