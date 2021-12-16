@@ -22,10 +22,6 @@ For:
 
 	2. Brief Description of issue - Please remember, there is a text box underneath for your paragraphs.
 
-Now we can move on to the description, in the write box please follow the following format:
-
-	Date and Time of Experience (if applicable or necessary):
-	What seems to be the issue?:
-	Please include steps to recreate the issue (if applicable):
+Please follow the templates found when opening an issue.
 
 Please use simple words, Americans and Scots have to read this too.
