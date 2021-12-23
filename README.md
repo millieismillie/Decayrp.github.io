@@ -24,4 +24,8 @@ For:
 
 Please follow the templates found when opening an issue.
 
+Any issue not following the templates displayed will be closed within 24 hours of a friendly reminder.
+
+Accounts with more than 1 issue opened in the past not following the template will find their issues closed immediately.
+
 Please use simple words, Americans and Scots have to read this too.
