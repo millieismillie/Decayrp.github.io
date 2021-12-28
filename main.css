@@ -1,0 +1,48 @@
+/*Stylisation tools used for logo*/
+@font-face {
+	font-family:	"barrack";
+	src:	url("./Assets/fonts/barrack.ttf");
+}
+
+.font-barrack {
+	font-family: "barrack";
+}
+
+.lsize {
+	font-size: 38px;
+}
+
+.color-purple {
+	color: purple;
+}
+
+/*Structural properties*/
+#rcorners{
+	text-allign: center;
+	border-radius: 100px 100px 100px;
+	border: 2px solid #800080;
+	padding: 20px;
+	width: 500px;
+	height 500px;
+	background: rgba(0,0,0,0.8);
+}
+
+/*body and structual styling*/
+body {
+	background-image:url("./Assets/images/bg.png");
+	background-size: fill;
+	background-repeat: no-repeat;
+}
+
+header {
+	margin:	89px 0 0;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: #c1afaf;
+}
+
+#opacity-reset {
+	opacity: 100%;
+}
