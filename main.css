@@ -30,7 +30,7 @@
 /*body and structual styling*/
 body {
 	background-image:url("./Assets/images/bg.png");
-	background-size: fill;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
