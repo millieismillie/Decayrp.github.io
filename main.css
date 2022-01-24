@@ -27,12 +27,29 @@
 	background: rgba(0,0,0,0.8);
 }
 
+#rcorners1{
+	text-allign: center;
+	border-radius: 100px 100px 100px;
+	border: 2px solid #800080;
+	padding: 20px;
+	width: 75%;
+	height: 75%;
+	background: rgba(0,0,0,0.8);
+    overflow-x:scroll;
+}
+
+/* Scroll bar */
+
+::-webkit-scrollbar {
+    height:0;
+    width:0;
+}
+
 /*body and structual styling*/
 body {
 	background-image:url("./Assets/images/bg.png");
-	background-size: cover;
-	background-position: center;
 	background-repeat: no-repeat;
+	background-size:auto;
 }
 
 header {
