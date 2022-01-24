@@ -13,14 +13,14 @@
 }
 
 .color-purple {
-	color: purple;
+	color: #766990;
 }
 
 /*Structural properties*/
 #rcorners{
 	text-allign: center;
 	border-radius: 100px 100px 100px;
-	border: 2px solid #800080;
+	border: 2px solid #766990;
 	padding: 20px;
 	width: 500px;
 	height 500px;
@@ -30,12 +30,12 @@
 #rcorners1{
 	text-allign: center;
 	border-radius: 100px 100px 100px;
-	border: 2px solid #800080;
+	border: 2px solid #766990;
 	padding: 20px;
-	width: 75%;
-	height: 75%;
+	width: 90%;
+	height: 85%;
 	background: rgba(0,0,0,0.8);
-    overflow-x:scroll;
+    	overflow-x:scroll;
 }
 
 /* Scroll bar */
@@ -46,14 +46,16 @@
 }
 
 /*body and structual styling*/
+
 body {
+	background-color:#4b4a56;
 	background-image:url("./Assets/images/bg.png");
 	background-repeat: no-repeat;
-    background-size: auto;
+    	background-size: auto;
 }
 
 header {
-	margin:	89px 0 0;
+	margin:	10px 0 0;
 	position: fixed;
 	top: 50%;
 	left: 50%;
