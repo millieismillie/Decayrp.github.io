@@ -25,21 +25,17 @@
 				<div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
 					<div="col-lg-8 align-self-end">
 						<h1 class="font-weight-bold">Welcome to <span class="font-barrack font-weight-bold color-purple">Ndecay</span></h1>
-						<p class="font-weight-bold">Decay is a horror-focused 18+ DayZ roleplaying server set in Chernarus in the year 2032, 26 years after the collapse of civilization in 2005. If you're interested in joining, please read our rules and lore and join the discord so you can whitelist!</p>
-						<p> Our server is launching on Saturday January 29th!</p>
-						
-						
+						<p class="font-weight-bold">Decay is a horror-inspired DayZ roleplay server set in Chernarus during the year 2031. Set 26 years after the initial outbreak.</p>
 						<hr class="divider">
 					</div>
 					<div="row align-self-baseline">
-					<h2 class="text-center">Launch Date</h2>
+					<h2 class="text-center">Development Status</h2>
 					<div class="row align-self-baseline">
-						<div class="col text-center"><p><span class="font-barrack color-purple">jan 29th, 2022</span></p>
+						<div class="col text-center"><p>Status: <span class="font-barrack color-purple">beta</span></div>
+						<div class="col text-center"><p>RP: <span class="font-barrack color-purple">in character</span></p>
 					</div>
 				</div>
 			</div>
-			<h2 class="text-center">Launch Date</h2>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/8iiNTYCIhko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</header>
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 	</body>
