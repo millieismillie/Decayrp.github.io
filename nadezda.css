@@ -1,14 +1,7 @@
 @font-face {
-	font-family: "cherl";
-	src:	url("Assets/fonts/CHERL___.TTF");
+	font-family: "hell";
+	src:	url("./Assets/fonts/Happy Hell.ttf");
 }
-.font-cherl {
-	font-family: "cherl";
-}
-@font-face {
-	font-family: "cheri";
-	src:	url("Assets/fonts/CHERI___.TTF") format("truetype");
-}
-.font-cheri {
-	font-family: "cheri";
+.font-hell {
+	font-family: "hell";
 }
