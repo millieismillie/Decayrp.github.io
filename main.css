@@ -3,6 +3,13 @@
 	font-family:	"barrack";
 	src:	url("./Assets/fonts/barrack.ttf");
 }
+@font-face {
+	font-family:	"cheril";
+	src:	url("./Assets/fonts/CHERL___.ttf");
+}
+.font-cheril {
+	font-family: "cheril";
+}
 
 .font-barrack {
 	font-family: "barrack";
