@@ -3,16 +3,8 @@
 	font-family:	"barrack";
 	src:	url("./Assets/fonts/barrack.ttf");
 }
-
-@font-face {
-	font-family:	"cherl";
-	src:	url("./Assets/fonts/CHERL.ttf");
-}
 .font-barrack {
 	font-family: "barrack";
-}
-.font-cherl {
-	font-family: "cherl";
 }
 
 .lsize {
