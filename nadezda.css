@@ -1,13 +1,13 @@
 @font-face {
 	font-family: "cherl";
-	src:	url("./Assets/fonts/CHERL___.ttf");
+	src:	url("./Assets/fonts/CHERL___.TTF");
 }
 .font-cherl {
 	font-family: "cherl";
 }
 @font-face {
 	font-family: "cheri";
-	src:	url("./Assets/fonts/CHERI___.ttf");
+	src:	url("./Assets/fonts/CHERI___.TTF");
 }
 .font-cheri {
 	font-family: "cheri";
