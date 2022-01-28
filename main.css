@@ -4,11 +4,11 @@
 	src:	url("./Assets/fonts/barrack.ttf");
 }
 @font-face {
-	font-family:	"cheril";
-	src:	url("./Assets/fonts/CHERL___.ttf");
+	font-family:	"cherl";
+	src:	url("./Assets/fonts/CHERL.ttf");
 }
-.font-cheril {
-	font-family: "cheril";
+.font-cherl {
+	font-family: "cherl";
 }
 
 .font-barrack {
