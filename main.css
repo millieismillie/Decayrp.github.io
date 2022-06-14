@@ -24,8 +24,8 @@
 	text-allign: center;
 	border-radius: 50px 50px 50px;
 	border: 2px solid #766990;
-	padding: 20px;
-	width: 500px;
+	padding: 1px;
+	width: 50%;
 	height: 500px;
 	background: rgba(0,0,0,0.8);
 }
