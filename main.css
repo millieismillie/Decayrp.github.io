@@ -26,10 +26,10 @@ font-family: "barrack";
 /*Structural properties*/
 #rcorners{
 	text-allign: center;
-	border-radius: 100px 100px 100px;
+	border-radius: 50px 50px 50px;
 	border: 2px solid #766990;
 	padding: 20px;
-	width: 55%;
+	width: 70%;
 	background: rgba(0,0,0,0.8);
 }
 
