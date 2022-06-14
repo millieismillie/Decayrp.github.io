@@ -15,6 +15,34 @@
 	color: #766990;
 }
 
+/*Structural properties*/
+#rcorners{
+	text-allign: center;
+	border-radius: 100px 100px 100px;
+	border: 2px solid #766990;
+	padding: 20px;
+	width: 500px;
+	height 500px;
+	background: rgba(0,0,0,0.8);
+}
+
+#rcorners1{
+	text-allign: center;
+	border-radius: 100px 100px 100px;
+	border: 2px solid #766990;
+	padding: 20px;
+	width: 90%;
+	height: 85%;
+	background: rgba(0,0,0,0.8);
+    	overflow-x:scroll;
+}
+
+/* Scroll bar */
+
+::-webkit-scrollbar {
+    height:0;
+    width:0;
+}
 
 /*body and structual styling*/
 
@@ -27,8 +55,10 @@ body {
 
 header {
 	margin:	10px 0 0;
+	position: fixed;
 	top: 50%;
 	left: 50%;
+	transform: translate(-50%, -50%);
 	color: #c1afaf;
 }
 
